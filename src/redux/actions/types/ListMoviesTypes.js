@@ -1,0 +1,16 @@
+export const MA_NHOM1 = 'GP01';
+export const DOMAIN = 'https://movienew.cybersoft.edu.vn';
+export const SET_PHIM_DANG_CHIEU = 'SET_PHIM_DANG_CHIEU';
+export const SET_PHIM_SAP_CHIEU = 'SET_PHIM_SAP_CHIEU';
+export const SET_CHI_TIET_PHIM = 'SET_CHI_TIET_PHIM';
+export const SET_QUAN_LI_DAT_VE = 'SET_QUAN_LI_DAT_VE';
+export const SET_GHE_DANG_DAT = 'SET_GHE_DANG_DAT';
+export const SET_DAT_VE = 'SET_DAT_VE';
+export const SET_DAT_GHE = 'SET_DAT_GHE';
+export const SET_LICH_SU_DAT_VE= 'SET_LICH_SU_DAT_VE';
+export const SET_LOADING= 'SET_LOADING';
+export const HIDE_LOADING= 'HIDE_LOADING';
+export const DAT_VE_HOAN_TAT= 'DAT_VE_HOAN_TAT';
+export const CHUYEN_TAB = 'CHUYEN_TAB';
+export const CHUYEN_TAB_1 = 'CHUYEN_TAB_1';
+export const CHUYEN_TAB_ACTIVE = 'CHUYEN_TAB_ACTIVE';
